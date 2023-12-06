@@ -1,0 +1,19 @@
+Github Codespace
+To create a Codespace on Github:
+
+- Go to Github and click the green button labeled "Code".
+- Toggle on the "Codespaces" option and click "Create code space on main".
+- This will create a code space that is similar to your local environment.
+
+To create a Node.js environment in specific codespace:
+
+- Open the command palette (Cmd + Shift + P).
+- Type "container" and select "Add Development Container Configuration Files".
+- Type "node" and click in "Show all node definations" --> Then select "Node. JS and Javascript" --> and rebuild the machine.
+
+Close your active machine from Github if not using.
+
+- To delete a running machine
+- Open the codespaces.
+- Click the "Codespace" button in the top right corner.
+- Select "Delete".
